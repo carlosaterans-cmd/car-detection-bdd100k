@@ -1,0 +1,8 @@
+```text
+torch
+torchvision
+numpy
+matplotlib
+opencv-python
+pillow
+torchmetrics
