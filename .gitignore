@@ -1,0 +1,11 @@
+# Ignore python cache
+__pycache__/
+*.pyc
+
+# Ignore massive training files and model weights
+*.pth
+car_detector_best.pth
+car_detector_last.pth
+
+# Ignore any local dataset folders you might drop in here
+data/bdd100k/
