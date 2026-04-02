@@ -43,11 +43,13 @@ Clone the repository and install the dependencies:
 git clone [https://github.com/your-username/car-detection-bdd100k.git](https://github.com/your-username/car-detection-bdd100k.git)
 cd car-detection-bdd100k
 pip install -r requirements.txt
+```
 
 ### 2. Training the Model
 To train the model on your BDD100k subset, run:
 ```bash
 python train.py --img_dir "path/to/images" --json_dir "path/to/labels" --num_images 1000 --epochs 15
+```
 
 ## 🗺️ Roadmap / Future Improvements
 To take this project to a production/automotive grade, I am planning to implement:
