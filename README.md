@@ -40,7 +40,7 @@ Green boxes represent the model's predictions, while red boxes represent the gro
 ### 1. Installation
 Clone the repository and install the dependencies:
 ```bash
-git clone [https://github.com/your-username/car-detection-bdd100k.git](https://github.com/your-username/car-detection-bdd100k.git)
+git clone [https://github.com/carlosaterans-cmd/car-detection-bdd100k.git](https://github.com/carlosaterans-cmd/car-detection-bdd100k.git)
 cd car-detection-bdd100k
 pip install -r requirements.txt
 ```
